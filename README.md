@@ -1,2 +1,2 @@
 # JS-Snippet
-Usefull JS Code Snippet
+Useful JS Code Snippet
